@@ -1,5 +1,7 @@
 # JerseyCTF II (2022) Challenges
 
+* These challenges are stored in this [repository](https://github.com/njitacm/jerseyctf-2022-challenges) as well.
+
 ## Easy Challenges
 | Challenge Name | Category | Description
 |:-- |:-- |:--
@@ -17,4 +19,3 @@
 | [bank-clients](bank-clients) | misc | keepass2john with John the Ripper 
 | [sho-me-whats-wrong](sho-me-whats-wrong) | osint | Shodan.io
 | [contributor](contributor) | osint | Bad OPSEC on LinkedIn giving password reset security question answers
-
