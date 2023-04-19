@@ -4,7 +4,7 @@
 ## Easy Challenges
 | Challenge Name | Category | Description
 |:-- |:-- |:--
-| [jack-and-jill](apache-logs) | crypto | Hill Cipher
+| [jack-and-jill](jack-and-jill) | crypto | Hill Cipher
 | [what-is-it-doc](what-is-it-doc) | forensics | VirusTotal
 | [record-me](record-me) | osint | DNS records
 
