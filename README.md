@@ -1,5 +1,5 @@
 # jerseyctf-challenge-development
-Development and solutions of web exploitation, forensics, cryptography, open-source intelligence (OSINT), and miscellaneous challenges for JerseyCTF II (2022) and III (2023).
+My development and solutions of web exploitation, forensics, cryptography, open-source intelligence (OSINT), and miscellaneous challenges for JerseyCTF II (2022) and III (2023).
 
 * [JerseyCTF III](2023)
 * [JerseyCTF II](2022)
